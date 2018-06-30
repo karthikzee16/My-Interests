@@ -1,0 +1,25 @@
+h3{
+  text-align:center;
+  color:red;
+}
+
+table{
+  text-align: center;
+}
+
+.myfood{
+  color:blue
+  
+}
+
+.mybooks{
+  color:green
+ 
+}
+
+li{
+  color:purple
+}
+body {
+    background-color: rgb(255,215,0);
+}
